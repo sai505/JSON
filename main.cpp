@@ -3,6 +3,6 @@
 
 int main(){
 	std::vector<int> v;
-	
+	test test;
 	
 }
