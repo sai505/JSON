@@ -4,7 +4,8 @@
 
 int main(){
 
-	
+	JSON j;
+		
 	return 0;
 	
 }
